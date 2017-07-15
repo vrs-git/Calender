@@ -1,0 +1,139 @@
+   *{
+   	padding: 0px;
+   	margin: 0;
+   }
+	
+	.head {
+		font-size: 20px;
+		padding: 20px;
+
+        font-size: 30px;		
+		background-color: #005A31;
+
+		color: white;
+
+		font-weight: bold;
+		
+
+	}
+
+	.date {
+		font-size: 25px;
+		padding-left: 22px;
+		padding-bottom: 10px; 
+		border: 1px solid #CBE32D;
+		background-color: #A8CD1B;
+		font-weight: bold;
+		font-style: italic;
+	}
+
+	#display {
+		position: fixed;
+		
+		top: 100px;
+		left: 650px;
+
+		font-size: 27px;
+		font-weight: bold;
+		font-style: italic;
+		color: #005A31;
+	
+		
+		
+
+		
+	}
+
+		#current {
+		position: fixed;
+		
+		bottom: 50px;
+		left: 360px;
+
+		font-size: 40px;
+		font-weight: bold;
+		font-style: italic;
+		color: #005A31;
+		
+
+		
+	}
+
+	#pre {
+		position: fixed;
+		top: 100px;
+		left: 600px;
+		font-size: 25px;
+		font-weight: bold;
+		color: #005A31;
+		
+		
+	}
+
+	#month {
+		position: fixed;
+		top: 100px;
+		left: 800px;
+		font-size: 25px;
+		font-weight: bold;
+		color: #005A31;
+		
+		
+	}
+
+		#next {
+		position: fixed;
+		top: 100px;
+		left: 850px;
+		font-size: 25px;
+		font-weight: bold;
+		color: #005A31;
+		
+		
+	}
+
+	#last {
+		position: fixed;
+		
+		top: 100px;
+		left: 550px;
+		font-size: 25px;
+		font-weight: bold;
+		color: #005A31;
+		
+	}
+
+	table {
+		position: fixed;
+
+		top: 150px;
+		left: 350px;
+
+		
+
+		background-color: #F3FAB6;
+
+
+	}
+
+		#today {
+		position: fixed;
+		top: 100px;
+		left: 400px;
+		
+		width: 70px;
+		height: 30px;
+
+		background-color: #005A31;
+
+		color: white;
+
+		font-weight: bold;
+
+		border-color: #005A31;
+		
+	}
+
+	body {
+		background-image: url("images/blur.jpg");
+	}
